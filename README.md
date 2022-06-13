@@ -1,5 +1,5 @@
 # MIT Data Engineering Professional Certification
-[<a href="Go to Repo">](https://github.com/ukthanki/MIT_ETL_Project)
+https://github.com/ukthanki/MIT_ETL_Project
 
 ETL, Analysis, and Visualization Project
   
