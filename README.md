@@ -5,7 +5,7 @@
 ## Monthly Retail Trade Survey ETL
 
 <p align="center">
-    <img width="100%" src="https://github.com/ukthanki/MIT_House_Price_Prediction_Project/assets/42117481/29fc8ce1-f3c8-49df-b5f6-cd6c6b10eb12">
+    <img width="100%" src="https://github.com/ukthanki/MIT_MRTS_ETL/assets/42117481/287fc16c-81d0-4b9a-b483-1e6aa881755e">
 </p>
 
 Up to this point in the course, we had learned the following topics:
@@ -23,5 +23,4 @@ In this project, we explore the Monthly Retail Trade Survey (MRTS) data set for 
 
 
 **You can view the full Project in the "Module 7_Final_Project_Thanki.ipynb" file in the Repository.**
-
 
