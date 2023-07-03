@@ -15,7 +15,7 @@ Up to this point in the course, we had learned the following topics:
 4. Linear Regression
 5. ETL Fundamentals
 
-In this project, we explore the Monthly Retail Trade Survey (MRTS) data set for the years 2020-1992 and perform an Extract-Transformation-Load (ETL) process through a variety of steps. We then analyze the data for trends, percentage changes, as well as rolling time windows paired with visualization for enhanced understanding of the data.
+In this project, we explore the Monthly Retail Trade Survey (MRTS) data set for the years 1992-2020 and perform an Extract-Transformation-Load (ETL) process through a variety of steps. We then analyze the data for trends, percentage changes, as well as rolling time windows paired with visualization for enhanced understanding of the data.
 
 | ![image](https://github.com/ukthanki/MIT_House_Price_Prediction_Project/assets/42117481/809779b0-251f-41d9-bbee-21ad7f6c7746)| 
 |:--:| 
