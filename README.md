@@ -23,6 +23,11 @@ You can learn more about MRTS [here](https://www.census.gov/retail/about_the_sur
 |:--:| 
 | **Figure 1.** Null entry counts in each field in the original dataset. |
 
+```python
+var add2 = function(number) {
+  return number + 2;
+}
+```
 
 **You can view the full Project in the "Module 7_Final_Project_Thanki.ipynb" file in the Repository.**
 
