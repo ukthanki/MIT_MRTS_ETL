@@ -1,7 +1,27 @@
+[Go to Back to Home Page](https://ukthanki.github.io/)
+
 # MIT Data Engineering Professional Certification
 
+## Monthly Retail Trade Survey ETL
 
-## ETL, Analysis, and Visualization Project
-[Go to Repo](https://github.com/ukthanki/MIT_ETL_Project)
+<p align="center">
+    <img width="100%" src="https://github.com/ukthanki/MIT_House_Price_Prediction_Project/assets/42117481/29fc8ce1-f3c8-49df-b5f6-cd6c6b10eb12">
+</p>
+
+Up to this point in the course, we had learned the following topics:
+1. NumPy
+2. Pandas
+3. SQL
+4. Linear Regression
+5. ETL Fundamentals
 
 In this project, we explore the Monthly Retail Trade Survey (MRTS) data set for the years 2020-1992 and perform an Extract-Transformation-Load (ETL) process through a variety of steps. We then analyze the data for trends, percentage changes, as well as rolling time windows paired with visualization for enhanced understanding of the data.
+
+| ![image](https://github.com/ukthanki/MIT_House_Price_Prediction_Project/assets/42117481/809779b0-251f-41d9-bbee-21ad7f6c7746)| 
+|:--:| 
+| **Figure 1.** Null entry counts in each field in the original dataset. |
+
+
+**You can view the full Project in the "Module 7_Final_Project_Thanki.ipynb" file in the Repository.**
+
+
