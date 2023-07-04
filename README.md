@@ -112,9 +112,12 @@ cnx.commit()
 
 ```
 
-| ![image](https://github.com/ukthanki/MIT_House_Price_Prediction_Project/assets/42117481/809779b0-251f-41d9-bbee-21ad7f6c7746)| 
+At this point, the data was effectively loaded into the database table, as shown below in Figure 1:
+
+| ![download](https://github.com/ukthanki/MIT_MRTS_ETL/assets/42117481/ae5ff829-5165-419a-aa87-0663c492c8b0)| 
 |:--:| 
-| **Figure 1.** Null entry counts in each field in the original dataset. |
+| **Figure 1.** MRTS data loaded into the mrts table in MySQL. |
+
 
 
 
