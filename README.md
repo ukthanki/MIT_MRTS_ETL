@@ -74,6 +74,7 @@ I created a separate YAML file that contained the credentials of the database co
 Once the connection was made, I created the table and loaded the records from the Data Frame into the table, as shown below:
 
 ```python
+# Secure Connection to the Database
 db = yaml.safe_load(open("db.yaml"))
 config = {
     "user":     db["user"],
