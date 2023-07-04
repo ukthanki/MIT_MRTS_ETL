@@ -142,7 +142,7 @@ plt.show()
 
 | ![download](https://github.com/ukthanki/MIT_MRTS_ETL/assets/42117481/0ee68c9d-b29c-4251-b37e-93067cfae930)| 
 |:--:| 
-| **Figure 2.** MRTS data loaded into the mrts table in MySQL. |
+| **Figure 2.** MRTS data loaded into the *mrts* table in MySQL. |
 
 This project was quite insightful because it focused heavily on ETL and how it may be done programmatically as opposed to manually. I could have produced the same plots by performing all steps in Python only, but by loading the data in MySQL, it became available to a wider audience for querying and analysis; this represents a real-world situation as a result because data must be accessible easily by multiple entities.
 
