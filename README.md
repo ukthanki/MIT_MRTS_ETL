@@ -116,7 +116,7 @@ As a result, the data was effectively loaded into the database table, as shown b
 
 | ![download](https://github.com/ukthanki/MIT_MRTS_ETL/assets/42117481/ae5ff829-5165-419a-aa87-0663c492c8b0)| 
 |:--:| 
-| **Figure 1.** MRTS data loaded into the mrts table in MySQL. |
+| **Figure 1.** MRTS data loaded into the *mrts* table in MySQL. |
 
 I was then able to execute various SELECT statements through Python to visualize the data to gain various insights. For example, by executing the following code below, I was able to plot the data using Matplotlib, as shown below in Figure 2:
 
@@ -142,7 +142,7 @@ plt.show()
 
 | ![download](https://github.com/ukthanki/MIT_MRTS_ETL/assets/42117481/0ee68c9d-b29c-4251-b37e-93067cfae930)| 
 |:--:| 
-| **Figure 2.** MRTS data loaded into the *mrts* table in MySQL. |
+| **Figure 2.** Sales vs. Year for Retail and Food Services. |
 
 This project was quite insightful because it focused heavily on ETL and how it may be done programmatically as opposed to manually. I could have produced the same plots by performing all steps in Python only, but by loading the data in MySQL, it became available to a wider audience for querying and analysis; this represents a real-world situation as a result because data must be accessible easily by multiple entities.
 
