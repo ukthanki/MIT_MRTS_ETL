@@ -112,14 +112,33 @@ cnx.commit()
 
 ```
 
-At this point, the data was effectively loaded into the database table, as shown below in Figure 1:
+As a result, the data was effectively loaded into the database table, as shown below in Figure 1:
 
 | ![download](https://github.com/ukthanki/MIT_MRTS_ETL/assets/42117481/ae5ff829-5165-419a-aa87-0663c492c8b0)| 
 |:--:| 
 | **Figure 1.** MRTS data loaded into the mrts table in MySQL. |
 
+I was then able to execute various SELECT statements through Python to visualize the data to gain various insights. For example, by executing the following code below, I was able to plot the data using Matplotlib, as shown below in Figure 2:
 
-
+```python
+# (5) Retail and food services sales, total Yearly Trend
+query5 = """
+SELECT SUM(`value`), YEAR(period) FROM mrts WHERE kind_of_business = 'Retail and food services sales, total'
+GROUP BY 2 ORDER BY period
+"""
+MyCursor.execute(query5)
+month = []
+sales = []
+for row in MyCursor.fetchall():
+    sales.append(row[0])
+    month.append(row[1])
+    
+plt.plot(month, sales)
+plt.title("Retail and food services sales, total - Yearly")
+plt.xlabel("Year")
+plt.ylabel("Sales (USD, Million)")
+plt.show()
+```
 
 **You can view the full Project in the "module_8.py" and "Module 8_Umang_Thanki.ipynb" files in the Repository.**
 
