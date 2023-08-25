@@ -7,6 +7,7 @@
 <p align="center">
     <img width="100%" src="https://github.com/ukthanki/MIT_MRTS_ETL/assets/42117481/287fc16c-81d0-4b9a-b483-1e6aa881755e">
 </p>
+
 ![photo-1481437156560-3205f6a55735](https://github.com/ukthanki/MIT_MRTS_ETL/assets/42117481/9066810e-7264-4f51-b944-c43a88e40afa)
 
 Up to this point in the course, we had learned the following topics:
