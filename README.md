@@ -5,7 +5,7 @@
 ## Monthly Retail Trade Survey ETL
 
 <p align="center">
-    <img width="100%" src="https://github.com/ukthanki/MIT_MRTS_ETL/assets/42117481/287fc16c-81d0-4b9a-b483-1e6aa881755e">
+    <img width="100%" src="photo-1481437156560-3205f6a55735.png">
 </p>
 
 ![Screenshot](photo-1481437156560-3205f6a55735.png)
