@@ -5,10 +5,8 @@
 ## Monthly Retail Trade Survey ETL
 
 <p align="center">
-    <img width="100%" src="photo-1481437156560-3205f6a55735.png">
+    <img width="100%" src="https://github.com/ukthanki/MIT_MRTS_ETL/assets/42117481/826229df-f9b0-419b-b5c7-ae78a5732f56">
 </p>
-
-![Screenshot](photo-1481437156560-3205f6a55735.png)
 
 Up to this point in the course, we had learned the following topics:
 1. NumPy
