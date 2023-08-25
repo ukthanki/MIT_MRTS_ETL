@@ -8,6 +8,8 @@
     <img width="100%" src="https://github.com/ukthanki/MIT_MRTS_ETL/assets/42117481/287fc16c-81d0-4b9a-b483-1e6aa881755e">
 </p>
 
+![Screenshot](photo-1481437156560-3205f6a55735.png)
+
 Up to this point in the course, we had learned the following topics:
 1. NumPy
 2. Pandas
